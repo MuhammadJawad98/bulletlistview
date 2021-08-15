@@ -11,7 +11,7 @@ dependencies
 ```
 2- Import the package and use it in your Flutter App.
 ```dart
-import 'package:bullet_list/bullet_list.dart;
+import 'package:bullet_list/bullet_list.dart';
 ```
 
 ## Example
