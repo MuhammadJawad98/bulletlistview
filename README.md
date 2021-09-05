@@ -49,7 +49,9 @@ List<BulletListItemModel> list=[
 </tr>
    <tr>
       <td>
-<a href="https://ibb.co/HTJhqCX"><img src="https://i.ibb.co/HTJhqCX/Screenshot-2021-08-16-003729.png" alt="Screenshot-2021-08-16-003729" border="0"></a>
+         <div style={{justifyContent:'center',alignItems:'center'}}>
+         <a href="https://ibb.co/HTJhqCX"><img src="https://i.ibb.co/HTJhqCX/Screenshot-2021-08-16-003729.png" width="500" height="600" alt="Screenshot-2021-08-16-003729" border="0"></a>
+         </div>
 </td>
    </tr>
 </table>
